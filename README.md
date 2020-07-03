@@ -1,5 +1,5 @@
 # ai-finalproject
-***Route search in logistics problem***
+***State Space Search in logistics problem***
 
 Final project for the Artificial Intelligence course at UC3M
 
