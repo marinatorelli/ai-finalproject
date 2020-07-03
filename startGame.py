@@ -1,5 +1,3 @@
-## Javier Huertas (2017-18)
-## Alejandro Cervantes (2017-18)
 '''startGame.py
    Artificial Intelligence Course
    Practice on Space State Search
