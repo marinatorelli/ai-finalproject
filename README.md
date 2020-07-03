@@ -4,4 +4,6 @@
 Final project for the Artificial Intelligence course at UC3M
 
 ## Objectives
-- The development of different heuristic functions
+- Development of different heuristic functions
+- Application of different heuristic search techniques
+- Analysis and optimization of time and complexity
